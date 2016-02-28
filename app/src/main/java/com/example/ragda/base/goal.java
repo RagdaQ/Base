@@ -18,7 +18,7 @@ public class goal extends AppCompatActivity {
         EditText GoalName =(EditText) findViewById(R.id.editText6);
         EditText Amount =(EditText) findViewById(R.id.editText7);
         EditText Duration =(EditText) findViewById(R.id.editText8);
-        EditText SavingAmount =(EditText) findViewById(R.id.editText9);
+        EditText SavingAmoun =(EditText) findViewById(R.id.editText9);
 
         Button Done= (Button)findViewById(R.id.button5);
         Done.setOnClickListener(new View.OnClickListener() {
